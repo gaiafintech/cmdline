@@ -30,6 +30,8 @@
 #include <map>
 #include <iostream>
 
+#include <cstring>
+
 #include "detail.hpp"
 #include "error.hpp"
 #include "options.hpp"
